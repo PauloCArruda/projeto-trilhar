@@ -5,7 +5,7 @@ Desenvolver um aplicativo web que auxilie na gestão de finanças pessoais, ofer
 
 ## Estrutura do Projeto 📐
 - **Diagrama de Escopo**: Visualize a estrutura do projeto e suas funcionalidades.
--
+
 ## Mais Informações ℹ️
 - Desenvolvido manualmente e individualmente, utilizando Android Studio e Java.
 - Código desenvolvido inteiramente usando Git e GitHub.
